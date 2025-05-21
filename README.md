@@ -1,127 +1,97 @@
-# Excel-Dashboarding-Bank-Loans-Risk-Profiling-and-Performance-Analysis
-Banking Dynamic Risk Profiling and Performance Analysis in Consumer Lending
+# 💼 Banking Dynamic Risk Profiling & Performance Analysis (Excel Project)
 
-Project Objective:
-The aim of this project is to leverage advanced data analysis techniques within Excel to gain a thorough understanding and improve the management of a consumer loan portfolio. This entails evaluating loan risk profiles, analyzing financial performance metrics, uncovering borrower behavior patterns, and ultimately developing a dynamic, interactive Excel dashboard. The goal is to offer strategic recommendations that optimize loan portfolio management, mitigate risks, and enhance decision-making processes for financial institutions and stakeholders in the consumer lending industry.
+📊 **Tool Used**: Microsoft Excel  
+🏦 **Domain**: Consumer Lending  
+📁 **Project Type**: Dashboard & Predictive Analysis  
+👨‍💼 **Author**: Sahil Kishor  
 
-9104_Banking Credit Analysis Process (for Bankers)
+---
 
-Data Source Details:
-The dataset used provides a comprehensive overview of consumer lending, including detailed information on individual loans. Key fields include:
+## 🚀 Project Objective
 
-![image](https://github.com/user-attachments/assets/d9775bae-d6fa-487d-9294-0108e4984e1b)
+The goal of this project is to **analyze a consumer loan portfolio** using advanced Excel techniques to:
 
-id: Unique loan identifier.
+- Evaluate borrower risk profiles  
+- Uncover financial and behavioral patterns  
+- Predict loan defaults  
+- Develop an **interactive dashboard** for strategic decision-making  
 
-year: Year of loan issuance.
+---
 
-issue_d: Exact loan issuance date.
+## 📌 Dataset Overview
 
-final_d: Date related to the loan term's conclusion or final payment.
+The dataset provides detailed consumer lending information including:
 
-emp_length_int: Borrower’s employment length in years.
+- Loan details (amount, term, grade, purpose)
+- Borrower info (income, employment, DTI, home ownership)
+- Repayment and default records
+- Regional segmentation
 
-home_ownership: Borrower’s housing status (e.g., own, rent).
+🔑 **Key Fields**:
+`loan_amount`, `annual_inc`, `dti`, `interest_rate`, `loan_condition`, `grade`, `purpose`, `region`, and more.
 
-home_ownership_cat: Encoded housing status.
+---
 
-income_category: Categorical income level of the borrower.
+## 🧠 Key Analyses
 
-annual_inc: Borrower’s annual income.
+| Analysis Task | Description |
+|---------------|-------------|
+| 💰 **Income vs Loan Amount** | Correlated income categories with loan amounts |
+| 🗺️ **Region-wise Loan Analysis** | Identified Cannaught with the highest loan volume |
+| 📉 **DTI by Loan Grade** | Grades E & F had highest debt-to-income ratios |
+| 📈 **Loan vs Income Scatter Plot** | Visualized relationship to assess financial stability |
+| 💹 **Profitability by Grade** | Evaluated grade-wise profitability (Payments - Loan Amount) |
+| ⚠️ **Default Risk Prediction** | Applied logical formulas to forecast loan defaults |
 
-income_cat: Encoded income category.
+---
 
-loan_amount: Borrowed amount.
+## 📊 Dashboards Created
 
-term: Loan term in months or years.
+1. **📍 Loan Distribution Dashboard**  
+   Overview of loan types, home ownership, and income segments.
 
-term_cat: Encoded loan term.
+2. **📈 Trend Analysis Dashboard**  
+   Time-series breakdown of loans by year and purpose.
 
-application_type: Individual or joint loan application.
+3. **⚖️ Risk Analysis Dashboard**  
+   Interactive visuals showcasing risk levels by loan grade, DTI, and status.
 
-application_type_cat: Encoded application type.
+---
 
-purpose: Loan purpose (e.g., debt consolidation, home improvement).
+## 🔍 Key Findings
 
-purpose_cat: Encoded loan purpose.
+- ✅ **87%** of loans are performing (Good), **13%** are in default (Bad).
+- 🔻 **High-Risk Grades**: Grade G loans have highest risk and interest rates.
+- 🧾 **Top Default Purposes**: Debt consolidation (5,398) and credit cards (1,492).
+- 📊 **DTI Concern**: Grades E and F have the highest debt-to-income ratios.
+- 💸 **Income Impact**: Defaults concentrated in low annual income groups.
+- 🏡 **Ownership Factor**: Highest defaults seen in Mortgage and Rent categories.
+- 🏆 **Top Performing Segment**: Small business loans — high profits, low risk.
 
-interest_payments: Description of interest payments (e.g., high, low).
+---
 
-interest_payment_cat: Encoded interest payment description.
+## 📌 Conclusion
 
-loan_condition: Loan status (Good Loan, Bad Loan).
+By leveraging Excel’s data modeling capabilities, this project delivers a **comprehensive loan risk and profitability analysis**. The findings can help:
 
-loan_condition_cat: Encoded loan condition.
+- Optimize loan portfolio strategies  
+- Identify high-risk segments  
+- Support data-driven decisions in consumer lending  
 
-interest_rate: Loan interest rate.
+---
 
-grade: Assessment of the loan’s risk.
+## 📂 Project Files
 
-grade_cat: Encoded loan grade.
+📥 **Download Excel File**: [Click Here](https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing)
 
-dti: Borrower’s debt-to-income ratio.
+---
 
-total_pymnt: Total payments made to date.
+## 👤 About the Author
 
-total_rec_prncp: Total principal received to date.
+**Sahil Kishor**  
+📧 kishorsahil555@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sahil-kishor)
 
-recoveries: Amount recovered after loan default.
+---
 
-installment: Borrower’s monthly payment.
-
-region: Borrower’s geographical region.
-
-Tasks Executed:
-Income Category and Loan Amount Correlation: Analyzed the correlation between borrowers' income categories and loan amounts.
-
-Region-wise Loan Analysis: Identified the region with the highest number of loans and visualized the regional loan distribution.
-
-Debt-to-Income Ratio Insights: Computed and assessed the average debt-to-income ratio for each loan grade.
-
-Loan Amount vs. Annual Income: Created a scatter plot to examine the relationship between loan amounts and borrowers' annual incomes.
-
-Grade-wise Profitability Analysis: Calculated loan profitability (total payments received minus the loan amount) for each grade.
-
-Predictive Analysis for Loan Defaults: Used advanced Excel functions to predict default likelihood based on loan amount, income, and employment length.
-
-Risk Analysis Dashboard: Developed an interactive dashboard to present insights about loan grades and associated risks.
-
-Dashboards Crafted:
-1. Loan Distribution Dashboard
-Excel Loan Distribution Dashboard
-
-2. Trend Analysis Dashboard
-WhatsApp Image 2024-05-27 at 2 48 45 PM
-
-3. Risk Analysis Dashboard
-Excel Risk Analysis DAshboard
-
-Key Findings:
-Loan Status: 87% of the loans are classified as good, while 13% are bad.
-
-Risk Grades: Grade A loans pose the least risk, while Grade G loans are the riskiest with high-interest rates and debt-to-income ratios.
-
-Defaulter Analysis: Debt consolidation and credit card loans have the highest number of defaulters, with 5,398 and 1,492 respectively.
-
-Debt-to-Income Ratio: Loans graded E and F have the highest debt-to-income ratios.
-
-Income and Defaults: Most defaults occur in the low annual income group, which also faces higher interest rates.
-
-Regional Distribution: Cannaught has the highest loan count at 11,444, while Munster has the lowest at 7,397.
-
-Home Ownership: Loans for mortgage and rent home ownership types see the highest default rates.
-
-Profitability Insights: Loans for small businesses exhibit the highest profitability index and fewer defaults, making them a strategic focus for lenders.
-
-Conclusion:
-This project provides a deep dive into consumer loan data, revealing significant insights and patterns that can drive better loan portfolio management. The findings suggest strategic shifts towards lending for small businesses and caution in high-risk categories such as debt consolidation and low-income borrowers. By using Excel’s powerful analytical tools, financial institutions can better predict defaults and enhance decision-making processes to optimize performance and mitigate risks in consumer lending.
-
-Project Link
-Excel Project File link (G-Drive): https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing&ouid=109250966055236566315&rtpof=true&sd=true
-
-Author
-Sahil Kishor
-
-Email : kishorsahil555@gmail.com
-
-LinkedIn : www.linkedin.com/in/sahil-kishor
+⭐ *If you found this project insightful, feel free to star this repo and connect on LinkedIn!*
