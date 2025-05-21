@@ -9,6 +9,8 @@ The aim of this project is to leverage advanced data analysis techniques within 
 Data Source Details:
 The dataset used provides a comprehensive overview of consumer lending, including detailed information on individual loans. Key fields include:
 
+![image](https://github.com/user-attachments/assets/d9775bae-d6fa-487d-9294-0108e4984e1b)
+
 id: Unique loan identifier.
 
 year: Year of loan issuance.
