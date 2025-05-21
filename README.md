@@ -2,6 +2,8 @@
 
 This project takes a deep dive into a real-world consumer lending dataset with the goal of improving how banks and financial institutions manage loan portfolios. Using Excel as the primary tool, I explored borrower behaviors, risk factors, and profitability patterns to help build data-backed recommendations for better decision-making.
 
+Excel Project File link (G-Drive): https://docs.google.com/spreadsheets/d/1EDVhJD-Tu8XLa_QorNaYMKWNGg99HkAu/edit?usp=sharing&ouid=115171318194616389246&rtpof=true&sd=true
+
 ---
 
 ## Project Overview
@@ -80,7 +82,7 @@ Each dashboard includes slicers and filters to explore the data interactively.
 
 ## Access the Project
 
-🔗 [**Click here to view the Excel file**](https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing)
+🔗 [**Click here to view the Excel file**](https://docs.google.com/spreadsheets/d/1EDVhJD-Tu8XLa_QorNaYMKWNGg99HkAu/edit?usp=sharing&ouid=115171318194616389246&rtpof=true&sd=true)
 
 Feel free to make a copy and explore the dashboards!
 
