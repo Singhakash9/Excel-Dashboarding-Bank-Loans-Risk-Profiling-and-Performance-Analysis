@@ -14,6 +14,9 @@ Managing a loan portfolio is all about balancing risk and return. The core objec
 
 The end result? A dynamic workbook that does more than just show numbers — it helps make smarter decisions.
 
+![image](https://github.com/user-attachments/assets/abc33e88-b663-40a5-b569-0a78f0011df1)
+
+
 ---
 
 ## What’s Inside the Dataset?
@@ -58,8 +61,18 @@ Here are a few takeaways:
 I created three Excel dashboards to present the data clearly:
 
 - **Loan Distribution** – Who's borrowing what, and where?
+
+![image](https://github.com/user-attachments/assets/73d75b7f-d049-4b2c-888b-2d836a8b4104)
+
 - **Trend Analysis** – Loan patterns over time, by type and grade
+
+![image](https://github.com/user-attachments/assets/c2c8b4b8-2e5a-42d2-bb6b-138de9443bc8)
+
+
 - **Risk & Profit Dashboard** – Which segments should banks watch out for?
+
+![image](https://github.com/user-attachments/assets/fc24ed22-a732-491e-abf0-15b757f60e07)
+
 
 Each dashboard includes slicers and filters to explore the data interactively.
 
@@ -78,7 +91,7 @@ Feel free to make a copy and explore the dashboards!
 Hi! I’m **Akash Singh**, and I enjoy turning messy financial data into insights that matter. This project was built as a part of my ongoing interest in analytics for banking and fintech.
 
 📧 akash.singh@georgebrown.ca  
-🔗 [LinkedIn](https://www.linkedin.com/in/sahil-kishor)
+🔗 [LinkedIn](https://www.linkedin.com/in/akash-singh-979745147)
 
 ---
 
