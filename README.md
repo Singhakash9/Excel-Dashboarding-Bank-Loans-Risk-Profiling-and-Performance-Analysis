@@ -88,7 +88,7 @@ Feel free to make a copy and explore the dashboards!
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi! I’m **Akash Singh**, and I enjoy turning messy financial data into insights that matter. This project was built as a part of my ongoing interest in analytics for banking and fintech.
 
@@ -97,5 +97,5 @@ Hi! I’m **Akash Singh**, and I enjoy turning messy financial data into insight
 
 ---
 
-### ✅ Curious to Explore?
+### Curious to Explore?
 If you're in the lending space or just into Excel analytics, feel free to star the repo, drop feedback, or connect with me. I’m always up for a good data conversation.
