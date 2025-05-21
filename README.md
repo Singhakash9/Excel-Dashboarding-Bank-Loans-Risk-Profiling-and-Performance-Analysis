@@ -1,10 +1,10 @@
-# 📘 Consumer Lending Risk & Performance Analysis (Excel-Based Project)
+# Consumer Lending Risk & Performance Analysis (Excel-Based Project)
 
 This project takes a deep dive into a real-world consumer lending dataset with the goal of improving how banks and financial institutions manage loan portfolios. Using Excel as the primary tool, I explored borrower behaviors, risk factors, and profitability patterns to help build data-backed recommendations for better decision-making.
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 Managing a loan portfolio is all about balancing risk and return. The core objective here was to:
 
@@ -16,7 +16,7 @@ The end result? A dynamic workbook that does more than just show numbers — it 
 
 ---
 
-## 📊 What’s Inside the Dataset?
+## What’s Inside the Dataset?
 
 The dataset includes over 30 fields across borrower details, loan characteristics, and repayment history. Some of the important columns:
 
@@ -28,7 +28,7 @@ The dataset includes over 30 fields across borrower details, loan characteristic
 
 ---
 
-## 🔍 Core Analyses & Visuals
+## Core Analyses & Visuals
 
 Here's a quick overview of what was analyzed:
 
@@ -41,7 +41,7 @@ Here's a quick overview of what was analyzed:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 Here are a few takeaways:
 
@@ -53,7 +53,7 @@ Here are a few takeaways:
 
 ---
 
-## 🧩 Dashboards Built
+## Dashboards Built
 
 I created three Excel dashboards to present the data clearly:
 
@@ -65,7 +65,7 @@ Each dashboard includes slicers and filters to explore the data interactively.
 
 ---
 
-## 📂 Access the Project
+## Access the Project
 
 🔗 [**Click here to view the Excel file**](https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing)
 
@@ -75,9 +75,9 @@ Feel free to make a copy and explore the dashboards!
 
 ## 👋 About Me
 
-Hi! I’m **Sahil Kishor**, and I enjoy turning messy financial data into insights that matter. This project was built as a part of my ongoing interest in analytics for banking and fintech.
+Hi! I’m **Akash Singh**, and I enjoy turning messy financial data into insights that matter. This project was built as a part of my ongoing interest in analytics for banking and fintech.
 
-📧 kishorsahil555@gmail.com  
+📧 akash.singh@georgebrown.ca  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-kishor)
 
 ---
