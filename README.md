@@ -1,97 +1,86 @@
-# 💼 Banking Dynamic Risk Profiling & Performance Analysis (Excel Project)
+# 📘 Consumer Lending Risk & Performance Analysis (Excel-Based Project)
 
-📊 **Tool Used**: Microsoft Excel  
-🏦 **Domain**: Consumer Lending  
-📁 **Project Type**: Dashboard & Predictive Analysis  
-👨‍💼 **Author**: Sahil Kishor  
+This project takes a deep dive into a real-world consumer lending dataset with the goal of improving how banks and financial institutions manage loan portfolios. Using Excel as the primary tool, I explored borrower behaviors, risk factors, and profitability patterns to help build data-backed recommendations for better decision-making.
 
 ---
 
-## 🚀 Project Objective
+## 🧭 Project Overview
 
-The goal of this project is to **analyze a consumer loan portfolio** using advanced Excel techniques to:
+Managing a loan portfolio is all about balancing risk and return. The core objective here was to:
 
-- Evaluate borrower risk profiles  
-- Uncover financial and behavioral patterns  
-- Predict loan defaults  
-- Develop an **interactive dashboard** for strategic decision-making  
+- Understand how income, loan amount, and other borrower features affect defaults
+- Evaluate which loan types and segments are most profitable (or risky)
+- Create an interactive Excel dashboard to visualize and summarize the insights
 
----
-
-## 📌 Dataset Overview
-
-The dataset provides detailed consumer lending information including:
-
-- Loan details (amount, term, grade, purpose)
-- Borrower info (income, employment, DTI, home ownership)
-- Repayment and default records
-- Regional segmentation
-
-🔑 **Key Fields**:
-`loan_amount`, `annual_inc`, `dti`, `interest_rate`, `loan_condition`, `grade`, `purpose`, `region`, and more.
+The end result? A dynamic workbook that does more than just show numbers — it helps make smarter decisions.
 
 ---
 
-## 🧠 Key Analyses
+## 📊 What’s Inside the Dataset?
 
-| Analysis Task | Description |
-|---------------|-------------|
-| 💰 **Income vs Loan Amount** | Correlated income categories with loan amounts |
-| 🗺️ **Region-wise Loan Analysis** | Identified Cannaught with the highest loan volume |
-| 📉 **DTI by Loan Grade** | Grades E & F had highest debt-to-income ratios |
-| 📈 **Loan vs Income Scatter Plot** | Visualized relationship to assess financial stability |
-| 💹 **Profitability by Grade** | Evaluated grade-wise profitability (Payments - Loan Amount) |
-| ⚠️ **Default Risk Prediction** | Applied logical formulas to forecast loan defaults |
+The dataset includes over 30 fields across borrower details, loan characteristics, and repayment history. Some of the important columns:
 
----
-
-## 📊 Dashboards Created
-
-1. **📍 Loan Distribution Dashboard**  
-   Overview of loan types, home ownership, and income segments.
-
-2. **📈 Trend Analysis Dashboard**  
-   Time-series breakdown of loans by year and purpose.
-
-3. **⚖️ Risk Analysis Dashboard**  
-   Interactive visuals showcasing risk levels by loan grade, DTI, and status.
+- `loan_amount`, `annual_inc`, `interest_rate`, `dti`
+- `loan_condition` (Good/Bad)
+- `grade` (A to G risk levels)
+- `purpose`, `region`, `application_type`
+- Repayment values like `installment`, `total_pymnt`, and `recoveries`
 
 ---
 
-## 🔍 Key Findings
+## 🔍 Core Analyses & Visuals
 
-- ✅ **87%** of loans are performing (Good), **13%** are in default (Bad).
-- 🔻 **High-Risk Grades**: Grade G loans have highest risk and interest rates.
-- 🧾 **Top Default Purposes**: Debt consolidation (5,398) and credit cards (1,492).
-- 📊 **DTI Concern**: Grades E and F have the highest debt-to-income ratios.
-- 💸 **Income Impact**: Defaults concentrated in low annual income groups.
-- 🏡 **Ownership Factor**: Highest defaults seen in Mortgage and Rent categories.
-- 🏆 **Top Performing Segment**: Small business loans — high profits, low risk.
+Here's a quick overview of what was analyzed:
 
----
-
-## 📌 Conclusion
-
-By leveraging Excel’s data modeling capabilities, this project delivers a **comprehensive loan risk and profitability analysis**. The findings can help:
-
-- Optimize loan portfolio strategies  
-- Identify high-risk segments  
-- Support data-driven decisions in consumer lending  
+- **Loan Amount vs Income Category**: Are high-income borrowers taking higher loans?
+- **Region-wise Loan Distribution**: Which areas are borrowing the most?
+- **Grade-wise DTI Trends**: How does risk change across loan grades?
+- **Profitability Calculation**: Which loans returned the most (or least) value?
+- **Loan Defaults**: Predicted defaults using income, employment length & loan size
+- **Interactive Dashboards**: Three dashboards covering distribution, trends, and risk
 
 ---
 
-## 📂 Project Files
+## 📈 Key Insights
 
-📥 **Download Excel File**: [Click Here](https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing)
+Here are a few takeaways:
+
+- **87% of loans are performing well** – but the remaining 13% represent a serious risk
+- **Debt consolidation loans** top the defaulter list, followed by credit card refinancing
+- **Grades E & F** show the highest average DTI — clear red flags
+- **Small business loans**, surprisingly, offer great returns with relatively lower defaults
+- Borrowers with **low income and high interest rates** make up the majority of defaults
 
 ---
 
-## 👤 About the Author
+## 🧩 Dashboards Built
 
-**Sahil Kishor**  
+I created three Excel dashboards to present the data clearly:
+
+- **Loan Distribution** – Who's borrowing what, and where?
+- **Trend Analysis** – Loan patterns over time, by type and grade
+- **Risk & Profit Dashboard** – Which segments should banks watch out for?
+
+Each dashboard includes slicers and filters to explore the data interactively.
+
+---
+
+## 📂 Access the Project
+
+🔗 [**Click here to view the Excel file**](https://docs.google.com/spreadsheets/d/1T6_feAmVwFX-vLFl_kUB1FazTVDwAuga/edit?usp=sharing)
+
+Feel free to make a copy and explore the dashboards!
+
+---
+
+## 👋 About Me
+
+Hi! I’m **Sahil Kishor**, and I enjoy turning messy financial data into insights that matter. This project was built as a part of my ongoing interest in analytics for banking and fintech.
+
 📧 kishorsahil555@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sahil-kishor)
+🔗 [LinkedIn](https://www.linkedin.com/in/sahil-kishor)
 
 ---
 
-⭐ *If you found this project insightful, feel free to star this repo and connect on LinkedIn!*
+### ✅ Curious to Explore?
+If you're in the lending space or just into Excel analytics, feel free to star the repo, drop feedback, or connect with me. I’m always up for a good data conversation.
